@@ -1,0 +1,12 @@
+{
+  "name": "ArabicDiscord",
+  "version": "1.0.0",
+  "description": "Translates Discord to Arabic.",
+  "authors": [
+    {
+      "name": "Antigravity",
+      "id": "0"
+    }
+  ],
+  "color": "#00ff00"
+}
